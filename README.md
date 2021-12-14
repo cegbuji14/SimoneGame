@@ -1,4 +1,4 @@
-The non-react version of our App is available here  ()
+The non-react version of our App is available here  (https://github.com/cegbuji14/SimoneNonReact)
 
 # Getting Started with Create React App
 
